@@ -31,7 +31,8 @@ Users can see query runtime in milliseconds(ms).
 
 ### [BrowserStack Report](https://www.browserstack.com/speedlab)
 
-![browserstack report](src/assets/screenshots/screenshot-three.png)
+<img width="689" alt="image" src="https://user-images.githubusercontent.com/85393240/171674771-d35c9f53-1591-4971-b340-8f8e7736485b.png">
+
 
 ## Available Scripts
 
