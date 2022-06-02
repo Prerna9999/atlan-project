@@ -23,11 +23,13 @@
 
 ## ⏱ Page Load Time
 
-Page Load time of this website in desktop is in the range of 0.4 s to 0.6s.
+Page Load time of this website in desktop is of approx 1.6s.
 
-I calculated the performance and load time of this website using these two tools Lighthouse Chrome DevTools and BrowserStack SpeedLab.
 
 Users can see query runtime in milliseconds(ms).
+
+I calculated the performance and load time of this website using the BrowserStack SpeedLab tool.
+
 
 ### [BrowserStack Report](https://www.browserstack.com/speedlab)
 
