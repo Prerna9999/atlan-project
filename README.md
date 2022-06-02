@@ -7,6 +7,11 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+## OVERVIEW
+It is basically an SQL editor web application where any user can run any SQL queries. There are some predefined table stored which user can use for running any SQL queries.
+
+Users can see query runtime in milliseconds(ms).
+
 
 ## SOME Predefined SQL Queries
 
@@ -24,9 +29,6 @@
 ## ⏱ Page Load Time
 
 Page Load time of this website in desktop is of approx 1.6s.
-
-
-Users can see query runtime in milliseconds(ms).
 
 I calculated the performance and load time of this website using the BrowserStack SpeedLab tool.
 
