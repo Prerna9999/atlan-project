@@ -62,3 +62,18 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+## Dependencies
+@testing-library/jest-dom: "^5.11.4",
+@testing-library/react: "^11.1.0",
+@testing-library/user-event: "^12.1.10",
+alasql: "^1.7.3",
+react: "^17.0.2",
+react-ace: "^9.5.0",
+react-dom: "^17.0.2",
+react-helmet: "^6.1.0",
+react-hot-toast: "^2.1.1",
+react-json-to-csv: "^1.0.4",
+react-scripts: "4.0.3",
+react-table: "^7.7.0",
+web-vitals: "^1.0.1"
