@@ -35,6 +35,12 @@ I calculated the performance and load time of this website using the BrowserStac
 
 <img width="689" alt="image" src="https://user-images.githubusercontent.com/85393240/171674771-d35c9f53-1591-4971-b340-8f8e7736485b.png">
 
+## Steps I took to optimize the page load time
+Used code-splitting with React.Lazy() and Suspense to lazy load the components and split javaScript into multiple chunks using Dynamic runtime Imports for faster page load.
+Used React.Memo() to optimize the render performance of functional components.
+Used PurgeCSS to tree-shake unused styles and optimize my final build size.
+Used Lighthouse DevTools Extension to find the performance issues and fix them using their actionable suggestion.
+Used vercel to deploy this website to leverage its Vercel Edge Network compression that results in the better performance.
 
 ## Available Scripts
 
